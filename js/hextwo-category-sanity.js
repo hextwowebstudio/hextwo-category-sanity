@@ -1,5 +1,5 @@
 /**
- * Code from Mario Hendricks
+ * Original Code from Mario Hendricks
  * https://wordpress.stackexchange.com/a/246045/17901
  *
  */
